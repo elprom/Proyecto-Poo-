@@ -1,0 +1,1 @@
+print ("Archivotipo Python")
